@@ -46,7 +46,7 @@ let track_list = [{
     },
     {
         name: "Blank Space",
-        artist: "Taylow Swift",
+        artist: "Taylor Swift",
         image: "https://images.unsplash.com/photo-1442504028989-ab58b5f29a4a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzJ8fG11c2ljfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
         path: "assets/songs/Blank Space.mp3"
     },
